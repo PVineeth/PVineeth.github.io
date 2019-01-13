@@ -1,3 +1,3 @@
 # Blog
 
-Working on it.
+[Buggy Android Bluetooth API](./blandroid.html)
